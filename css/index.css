@@ -165,14 +165,3 @@ button:disabled {
 .alinhar {
   text-align: center;
 }
-
-#peso{
-	align-self: flex-start;
-
-} 
-#gordura{
-	align-self: flex-end;
-}
-#altura {
-	
-}
